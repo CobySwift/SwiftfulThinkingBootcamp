@@ -13,6 +13,7 @@
 		CB18F053283A2A8900C4D73D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB18F052283A2A8900C4D73D /* Preview Assets.xcassets */; };
 		CB18F05A283A2DEE00C4D73D /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */; };
 		CB18F05C283A533100C4D73D /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB18F05B283A533100C4D73D /* ShapesBootcamp.swift */; };
+		CB18F05E283A565000C4D73D /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB18F05D283A564F00C4D73D /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		CB18F052283A2A8900C4D73D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		CB18F05B283A533100C4D73D /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		CB18F05D283A564F00C4D73D /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CB18F04D283A2A8600C4D73D /* ContentView.swift */,
 				CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */,
 				CB18F05B283A533100C4D73D /* ShapesBootcamp.swift */,
+				CB18F05D283A564F00C4D73D /* ColorsBootcamp.swift */,
 				CB18F04F283A2A8900C4D73D /* Assets.xcassets */,
 				CB18F051283A2A8900C4D73D /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB18F05E283A565000C4D73D /* ColorsBootcamp.swift in Sources */,
 				CB18F05C283A533100C4D73D /* ShapesBootcamp.swift in Sources */,
 				CB18F04E283A2A8600C4D73D /* ContentView.swift in Sources */,
 				CB18F05A283A2DEE00C4D73D /* TextBootcamp.swift in Sources */,
