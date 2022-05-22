@@ -11,6 +11,7 @@
 		CB18F04E283A2A8600C4D73D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB18F04D283A2A8600C4D73D /* ContentView.swift */; };
 		CB18F050283A2A8900C4D73D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB18F04F283A2A8900C4D73D /* Assets.xcassets */; };
 		CB18F053283A2A8900C4D73D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB18F052283A2A8900C4D73D /* Preview Assets.xcassets */; };
+		CB18F05A283A2DEE00C4D73D /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CB18F04D283A2A8600C4D73D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CB18F04F283A2A8900C4D73D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB18F052283A2A8900C4D73D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CB18F04B283A2A8600C4D73D /* SwiftfulThinkingBootcampApp.swift */,
 				CB18F04D283A2A8600C4D73D /* ContentView.swift */,
+				CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */,
 				CB18F04F283A2A8900C4D73D /* Assets.xcassets */,
 				CB18F051283A2A8900C4D73D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB18F04E283A2A8600C4D73D /* ContentView.swift in Sources */,
+				CB18F05A283A2DEE00C4D73D /* TextBootcamp.swift in Sources */,
 				CB18F04C283A2A8600C4D73D /* SwiftfulThinkingBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
