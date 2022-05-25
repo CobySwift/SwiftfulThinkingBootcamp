@@ -16,6 +16,7 @@
 		CB18F05E283A565000C4D73D /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB18F05D283A564F00C4D73D /* ColorsBootcamp.swift */; };
 		CB33FA2A283BE436008638A8 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB33FA29283BE436008638A8 /* GradientsBootcamp.swift */; };
 		CBAD2FC0283E6E8100B2F12E /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAD2FBF283E6E8100B2F12E /* IconsBootcamp.swift */; };
+		CBAD2FC2283E726000B2F12E /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAD2FC1283E726000B2F12E /* ImageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		CB18F05D283A564F00C4D73D /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		CB33FA29283BE436008638A8 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		CBAD2FBF283E6E8100B2F12E /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		CBAD2FC1283E726000B2F12E /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				CB18F059283A2DEE00C4D73D /* TextBootcamp.swift */,
 				CB18F05B283A533100C4D73D /* ShapesBootcamp.swift */,
 				CB18F05D283A564F00C4D73D /* ColorsBootcamp.swift */,
+				CBAD2FC1283E726000B2F12E /* ImageBootcamp.swift */,
 				CB33FA29283BE436008638A8 /* GradientsBootcamp.swift */,
 				CBAD2FBF283E6E8100B2F12E /* IconsBootcamp.swift */,
 				CB18F04F283A2A8900C4D73D /* Assets.xcassets */,
@@ -158,6 +161,7 @@
 				CB18F04E283A2A8600C4D73D /* ContentView.swift in Sources */,
 				CB18F05A283A2DEE00C4D73D /* TextBootcamp.swift in Sources */,
 				CB18F04C283A2A8600C4D73D /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				CBAD2FC2283E726000B2F12E /* ImageBootcamp.swift in Sources */,
 				CBAD2FC0283E6E8100B2F12E /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
