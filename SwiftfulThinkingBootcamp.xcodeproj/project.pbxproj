@@ -25,6 +25,7 @@
 		CBAD2FC2283E726000B2F12E /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAD2FC1283E726000B2F12E /* ImageBootcamp.swift */; };
 		CBAD2FC4283E769700B2F12E /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAD2FC3283E769700B2F12E /* FrameBootcamp.swift */; };
 		CBF5A1582863E88B0052F438 /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF5A1572863E88B0052F438 /* ScrollViewBootCamp.swift */; };
+		CBF5A15A2863EEAA0052F438 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF5A1592863EEAA0052F438 /* GridBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		CBAD2FC1283E726000B2F12E /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		CBAD2FC3283E769700B2F12E /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		CBF5A1572863E88B0052F438 /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ScrollViewBootCamp.swift; path = ../../../../../../Applications/ScrollViewBootCamp.swift; sourceTree = "<group>"; };
+		CBF5A1592863EEAA0052F438 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				CBAD2FBF283E6E8100B2F12E /* IconsBootcamp.swift */,
 				CB80F9572851D47A00F75969 /* ForEachBootcamp.swift */,
 				CBF5A1572863E88B0052F438 /* ScrollViewBootCamp.swift */,
+				CBF5A1592863EEAA0052F438 /* GridBootcamp.swift */,
 				CB18F04F283A2A8900C4D73D /* Assets.xcassets */,
 				CB18F051283A2A8900C4D73D /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 				CB18F04C283A2A8600C4D73D /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				CB775CC42841D08700DCB8EA /* StacksBootcamp.swift in Sources */,
 				CB775CC82842015300DCB8EA /* SpacerBootcamp.swift in Sources */,
+				CBF5A15A2863EEAA0052F438 /* GridBootcamp.swift in Sources */,
 				CBAD2FC2283E726000B2F12E /* ImageBootcamp.swift in Sources */,
 				CBAD2FC0283E6E8100B2F12E /* IconsBootcamp.swift in Sources */,
 			);
