@@ -26,6 +26,7 @@
 		CBAD2FC4283E769700B2F12E /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAD2FC3283E769700B2F12E /* FrameBootcamp.swift */; };
 		CBF5A1582863E88B0052F438 /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF5A1572863E88B0052F438 /* ScrollViewBootCamp.swift */; };
 		CBF5A15A2863EEAA0052F438 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF5A1592863EEAA0052F438 /* GridBootcamp.swift */; };
+		CBF5A15C2863FABC0052F438 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF5A15B2863FABC0052F438 /* ButtonsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		CBAD2FC3283E769700B2F12E /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		CBF5A1572863E88B0052F438 /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ScrollViewBootCamp.swift; path = ../../../../../../Applications/ScrollViewBootCamp.swift; sourceTree = "<group>"; };
 		CBF5A1592863EEAA0052F438 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		CBF5A15B2863FABC0052F438 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				CB80F9572851D47A00F75969 /* ForEachBootcamp.swift */,
 				CBF5A1572863E88B0052F438 /* ScrollViewBootCamp.swift */,
 				CBF5A1592863EEAA0052F438 /* GridBootcamp.swift */,
+				CBF5A15B2863FABC0052F438 /* ButtonsBootcamp.swift */,
 				CB18F04F283A2A8900C4D73D /* Assets.xcassets */,
 				CB18F051283A2A8900C4D73D /* Preview Content */,
 			);
@@ -190,6 +193,7 @@
 				CB775CC22841C04800DCB8EA /* BackgroundAndoverlayBootcamp.swift in Sources */,
 				CB0396F82844B5C20020A147 /* InitializerBootcamp.swift in Sources */,
 				CB18F05C283A533100C4D73D /* ShapesBootcamp.swift in Sources */,
+				CBF5A15C2863FABC0052F438 /* ButtonsBootcamp.swift in Sources */,
 				CB18F04E283A2A8600C4D73D /* ContentView.swift in Sources */,
 				CB80F9582851D47A00F75969 /* ForEachBootcamp.swift in Sources */,
 				CB18F05A283A2DEE00C4D73D /* TextBootcamp.swift in Sources */,
